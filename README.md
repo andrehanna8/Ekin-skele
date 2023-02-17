@@ -18,18 +18,18 @@ Ekin, a NIke clone, is an e-commerce application that allows users to shop an as
   + Users can use a demo login to try the site
   + Users can't use certain features without logging in (creating chirps & likes)
 
-### 3. Reviews (04/06, 2 days)
+### 3. Reviews (0x/0x, 2 days)
   + Logged in users can create reviews
   + Users can view a list reviews
   + Logged in users can edit existing reviews
 
-### 4. Favorites (04/10, 2 days)
+### 4. Favorites (0x/xx, 2 days)
   + Logged in users can favorite items
 
-### 6. Search Itmes (04/12, 1 day)
+### 6. Search Itmes (0x/xx, 1 day)
   + Users can search for items through text to see results for that item
 
-### 7. Production README (04/13, 0.5 days)
+### 7. Production README (0x/xx, 0.5 days)
 
 # Postgres Database Schema
 
